@@ -3,6 +3,8 @@ Collection of all my signs for Trackmania².
 
 They are licensed under [CC Attribution 4.0 International](https://github.com/joblo2213/Trackmania-2-Signs/blob/master/LICENSE), so feel free to use them and adapt them to your needs.
 
+[Download all signs](https://github.com/joblo2213/Trackmania-2-Signs/archive/master.zip)
+
 ## Index
 
 ### blue
